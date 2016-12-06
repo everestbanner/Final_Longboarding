@@ -1,0 +1,74 @@
+#compphoto1, #compphoto2, #compphoto2-1, 
+#compphoto2-2, #compphoto2-3, #compphoto3, 
+#compphoto4, #compphoto5, #compphoto6 {
+	display: none;
+}
+
+table {
+	display: none
+}
+
+#p1, #p2, #p3, #p4, #p5 {
+	left: 11%;
+	font-size: 80%;
+	width: 80%;
+	background: none;
+}
+
+#p1{
+
+	top: 200px;
+}
+
+#p2 {
+
+	top: 500px;
+}
+
+#p3 {
+
+	top: 700px;
+}
+
+#p4 {
+
+	top: 900px;
+}
+
+#p5 {
+
+	top: 1200px;
+}
+
+#bwfirst, #bwsecond, #bwthird, #bwforth, #bwfifth {
+	display: none;
+}
+
+#goldinfo {
+	font-size: 80%;
+	top: 250px;
+}
+footer {
+	left: 20%;
+	font-size: 60%;
+	top: 1150px;
+	padding-bottom: 10px
+}
+
+#putpost {
+	padding-top: 2%;
+	height: 10%;
+	font-size: 80%;
+	top: 300px;
+}
+
+#custinfo {
+	top: 400px;
+}
+
+header {
+	font-size: 80%
+}
+nav {
+	font-size: 35%
+}

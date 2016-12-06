@@ -1,0 +1,92 @@
+
+
+header {
+	position: relative;
+
+	color: #FAB84F;
+	padding: 70px 0% 25px 10%;
+	margin: auto;
+
+	font-family: "Magneto", Arial, sans-serif;
+	font-size: 200%;
+}
+
+
+table #bigcell {
+	width: 89%;
+	max-width: 1190px;
+	height: 1%;
+	background: transparent	url(../photos/844930-longboard-wallpaper.jpg) top left no-repeat;
+	font-family: "Magneto", Arial, sans-serif;
+	color: #FAB84F;
+	font-size: 300%;
+	vertical-align: center;
+}
+
+table #leftborder, table #rightborder {
+	background: url(../photos/cemnt2.jpg) top left;
+}
+
+nav {
+	background-color: rgba( 255 255, 255, .3);
+	font-family: "Magneto", Arial, sans-serif;
+
+}
+nav a {
+	text-decoration: none;
+	color: #FAB84F;
+	
+}
+
+a:hover {
+	text-shadow: black 1px 1px 0px,
+				 #000000 5px 5px 10px;
+}
+
+ nav ul li {
+	font-size: 100%;
+	float:left;
+	text-align: center;
+	width: 9%;
+	position: relative;
+	list-style: none;
+	margin: auto;
+	margin-left: 1.3%;
+	margin-bottom:16px;
+	
+	color: #FAB84F;
+	padding: 2.3%;
+	
+
+}
+
+nav ul li #rightestmargin {
+		margin-right: 10%;
+}
+
+body {
+	background: black url(../photos/calmgriptape.jpg) top left;
+}
+
+
+p, footer {
+	text-align: center;
+}
+
+
+footer a {
+	
+
+	color: #FAB84F;
+}
+
+section a {
+	color: #FAB84F;
+}
+
+img {
+	-moz-box-shadow: rgba(0,0,0,.6) 7px 7px 7px 7px;
+	-webkit-box-shadow: rgba(0,0,0,.6) 7px 7px 7px 7px;
+	box-shadow: rgba(0,0,0,.6) 7px 7px 7px 7px;
+}
+

@@ -1,0 +1,248 @@
+
+/*words*/
+section p {
+	clear: left;
+	position: absolute;
+	
+	left: 15%;
+	top: 71%;	
+	
+	color: #FAB84F;
+	
+	z-index:1;
+	
+	width: 280px;
+	
+	background:black url(../photos/calmgriptape.jpg) top left;
+	border-radius: 50px;
+	padding-top:40px;
+	padding-bottom:40px;
+}
+
+/* paragraphs */
+#p1{
+	position: absolute;
+	left: 10%;
+	top: 538px;
+}
+
+#p2 {
+	position: absolute;
+	left: 66%;
+	top: 1160px;
+}
+
+#p3 {
+	position: absolute;
+	left: 10%;
+	top: 1620px;
+}
+
+#p4 {
+	position: absolute;
+	left: 66%;
+	top: 2080px;
+}
+
+#p5 {
+	position: absolute;
+	left: 10%;
+	top: 2638px;
+}
+/* wood backgrounds */
+#bwfirst img {
+    clear:left;
+	position: absolute;
+	
+	left: 9.19%;
+	top: 538.5px;	
+	
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	
+	height: 382px;
+	width: 300px;
+	
+	z-index:-1;
+}
+
+#bwsecond img {
+    clear:left;
+	position: absolute;
+	
+	left: 65.2%;
+	top: 1160px;	
+	
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	
+	height: 237px;
+	width: 300px;
+	
+	z-index:-1;
+}
+
+#bwthird img {
+    clear:left;
+	position: absolute;
+	
+	left: 9.19%;
+	top: 1620px;	
+	
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	
+	height: 202px;
+	width: 300px;
+	
+	z-index:-1;
+}
+
+#bwforth img {
+    clear:left;
+	position: absolute;
+	
+	left: 65.2%;
+	top: 2080px;	
+	
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	
+	height: 327px;
+	width: 300px;
+	
+	z-index:-1;
+}
+
+#bwfifth img {
+	clear:left;
+	position: absolute;
+	
+	left: 9.19%;
+	top: 2638px;	
+	
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	
+	height: 343px;
+	width: 300px;
+	
+	z-index:-1;
+}
+
+/* paragrah photos that help on the side*/
+
+#compphoto1 img {
+	clear:left;
+	position: absolute;
+	
+	left: 48.2%;
+	top: 510px;	
+
+	
+	height: 56%;
+	width: 34%;
+	
+	border: 5px solid gray;
+}
+
+#compphoto2 img {
+	clear:left;
+	position: absolute;
+	
+	left: 12.9%;
+	top: 1133px;	
+
+	height: 37%;
+	width: 34%;
+	
+	border: 5px solid gray;
+}
+
+#compphoto3 img {
+	clear:left;
+	position: absolute;
+	
+	left: 45.2%;
+	top: 1560px;	
+
+	
+	height: 40%;
+	width: 37%;
+	
+	border: 5px solid gray;
+	
+}
+
+#compphoto4 img {
+	clear:left;
+	position: absolute;
+	
+	left: 9.2%;
+	top: 2100px;	
+
+	
+	height: 35%;
+	width: 50%;
+	
+	border: 5px solid gray;
+	
+}
+
+#compphoto5 img {
+	clear:left;
+	position: absolute;
+	
+	left: 42.2%;
+	top: 2655px;	
+
+	
+	height: 40%;
+	width: 45%;
+	
+	border: 5px solid gray;
+	
+}
+
+/*especialy for bearings*/
+
+table {
+
+	float: left;
+	
+	width: 100%;
+	position: absolute;
+	
+	top: 0%;
+	left: 0%;
+	
+	height: 3300px;
+	z-index: -1;
+	border-left: 5xp solid black;
+	
+
+}
+
+footer {
+	clear: left;
+
+	color: #FAB84F;
+	font-family: "Magneto", Arial, sans-serif;
+
+	
+	display: block;
+	position: absolute;
+	
+	top: 3050px;
+	left: 40%;
+}
+
+#wheel {
+	text-shadow: black 1px 1px 0px,
+				 #000000 5px 5px 10px;
+}

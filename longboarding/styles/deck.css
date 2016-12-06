@@ -1,0 +1,211 @@
+
+/*words*/
+section p {
+	clear: left;
+	position: absolute;
+	
+	left: 15%;
+	top: 71%;	
+	
+	color: #FAB84F;
+	
+	z-index:1;
+	
+	width: 280px;
+	
+	background:black url(../photos/calmgriptape.jpg) top left;
+	border-radius: 50px;
+	padding-top:40px;
+	padding-bottom:40px;
+}
+
+/* paragraphs */
+#p1{
+	position: absolute;
+	left: 11%;
+	top: 538px;
+}
+
+#p2 {
+	position: absolute;
+	left: 66%;
+	top: 1160px;
+}
+
+#p3 {
+	position: absolute;
+	left: 11%;
+	top: 1620px;
+}
+
+#p4 {
+	position: absolute;
+	left: 66%;
+	top: 2080px;
+}
+
+/* wood backgrounds */
+#bwfirst img {
+    clear:left;
+	position: absolute;
+	
+	left: 10.19%;
+	top: 537.5px;	
+	
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	
+	height: 430px;
+	width: 300px;
+	
+	z-index:-1;
+}
+
+#bwsecond img {
+    clear:left;
+	position: absolute;
+	
+	left: 65.2%;
+	top: 1160px;	
+	
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	
+	height: 165px;
+	width: 300px;
+	
+	z-index:-1;
+}
+
+#bwthird img {
+    clear:left;
+	position: absolute;
+	
+	left: 10.19%;
+	top: 1620px;	
+	
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	
+	height: 225px;
+	width: 300px;
+	
+	z-index:-1;
+}
+
+#bwforth img {
+    clear:left;
+	position: absolute;
+	
+	left: 65.2%;
+	top: 2080px;	
+	
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	
+	height: 275px;
+	width: 300px;
+	
+	z-index:-1;
+}
+
+/* paragrah phots that help on the side*/
+
+#compphoto1 img {
+	clear:left;
+	position: absolute;
+	
+	left: 48.2%;
+	top: 560px;	
+
+	
+	height: 50%;
+	width: 43%;
+	
+	border: 5px solid gray;
+}
+
+#compphoto2 img {
+	clear:left;
+	position: absolute;
+	
+	left: 10.2%;
+	top: 1060px;	
+
+	height: 50%;
+	width: 43%;
+	
+	border: 5px solid gray;
+}
+
+#compphoto3 img {
+	clear:left;
+	position: absolute;
+	
+	left: 51.2%;
+	top: 1590px;	
+
+	
+	height: 40%;
+	width: 33%;
+	
+	border: 5px solid gray;
+	
+}
+
+#compphoto4 img {
+	clear:left;
+	position: absolute;
+	
+	left: 23.2%;
+	top: 2040px;	
+
+	
+	height: 50%;
+	width: 20%;
+	
+	border: 5px solid gray;
+	
+}
+
+/*esspecially for deck*/
+
+table {
+
+	float: left;
+	
+	width: 99%;
+	position: absolute;
+	
+	top: 0%;
+	left: 0%;
+	
+	height: 2800px;
+	z-index: -1;
+	border-left: 5xp solid black;
+	
+
+}
+
+footer {
+	clear: left;
+
+	color: #FAB84F;
+	font-family: "Magneto", Arial, sans-serif;
+
+	
+	display: block;
+	position: absolute;
+	
+	top: 2500px;
+	left: 43%;
+}
+
+#deck {
+	text-shadow: black 1px 1px 0px,
+				 #000000 5px 5px 10px;
+}

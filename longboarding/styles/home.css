@@ -1,0 +1,198 @@
+/* Home Page Css */
+
+#goldinfo {
+	clear: left;
+	position: absolute;
+	color: #FAB84F;
+
+	
+	width: 75%;
+	left: 12.1%;
+	top: 470px;
+	
+	background:black url(../photos/calmgriptape.jpg) top left ;
+	border-radius: 50px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	
+	font-size: 150%;
+	font-family: "Magneto", Arial, sans-serif;
+
+}
+
+#putpost {
+	clear: left;
+	float: left;
+	
+	position: absolute;
+	display: block;
+	
+	font-family: "Magneto", Arial, sans-serif;
+	color: #FAB84F;
+	background: black url(../photos/calmgriptape.jpg) top left;
+	
+
+	font-size: 200%;
+	text-align: center;
+	
+	
+	margin: 10px 0px 10px 2.5%;
+	width: 48.2%;
+	
+	top: 632px;
+	left: 23.6%;
+	
+	border-top: 5px solid gray;
+	border-right: 5px solid gray;
+	border-left: 5px solid gray;
+	border-bottom: 5px solid grey;
+	
+
+	padding-top: 260px;
+}
+
+#bwfirst img {
+    clear:left;
+	position: absolute;
+	
+	left:8.6%;
+	top: 538px;
+	
+	border-top: 5px solid gray;
+	border-right: 5px solid gray;
+	border-left: 5px solid gray;
+	border-bottom: 5px solid grey;
+	
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	
+	height: 585px;
+	width: 82.1%;
+	
+	z-index:-1;
+}
+/*--------------------------------------------------------------------------------*/
+fieldset {
+	background: white url(../photos/calmgriptape.jpg) top left;
+
+	float: left;
+	margin: 10px 0px 10px 2.5%;
+	width: 46%;
+	position: absolute;
+	
+	top: 975px;
+	left: 23.6%;
+	
+	border-top: 5px solid gray;
+	border-right: 5px solid gray;
+	border-left: 5px solid gray;
+	border-bottom: 5px solid grey;
+	
+}
+
+
+/* Label styles */
+
+label {
+	clear:left;
+	display: block;
+	float: left;
+	font-size: .9em;
+	margin: 7px 4% 7px 5px;
+	width: 20%;
+	font-family: "Magneto", Arial, sans-serif;
+	color: #FAB84F;
+}
+
+/* Input control styles */
+
+input, textarea {
+	display: block;
+	float: left;
+	font-size: .9em;
+	margin: 0px 0px;
+	width: 70%
+}
+
+texarea {
+	height: 300px;
+
+}
+
+
+
+/* button sttyles*/
+
+form p{
+ clear: left;
+
+}
+
+input[type="submit"] {
+	display: inline;
+	float: left;
+	height: 30px;
+	width: 120px;
+	margin-top: 1px;	
+	font-family: "Magneto", Arial, sans-serif;
+	
+	
+}
+
+/*Validation Styles */
+
+
+input:focus:invalid {
+	background: rgb(255, 232, 233);
+
+}
+
+#money td {
+	border: 5px solid grey;
+
+}
+
+.dollors {
+	color: white;
+}
+
+.tbname {
+	font-family: "Magneto", Arial, sans-serif;
+	width: 28%;
+	text-align: left;
+}
+
+#money {
+	color: #FAB84F;
+	float: left;
+	position: absolute;
+	left: 12.2%;
+	top: 400px;
+	border-collapse: collapse;
+	width:75%;
+}
+
+/*esspecially for suggestions*/
+
+#border {
+
+	float: left;
+	
+	width: 99%;
+	position: absolute;
+	
+	top: 0%;
+	left: 0%;
+	
+	height: 1040px;
+	z-index: -1;
+	border-left: 5xp solid black;
+	
+
+}
+
+#home {
+	text-shadow: black 1px 1px 0px,
+				 #000000 5px 5px 10px;
+}
